@@ -11,7 +11,7 @@ public class StudentGradeTracker {
         StudentGradeTracker tracker = new StudentGradeTracker();
         tracker.run();
     }
-    
+
     public void run() {
         int choice;
         do {
